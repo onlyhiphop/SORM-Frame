@@ -1,0 +1,6 @@
+com.sorm.bean
+com.sorm.core
+com.sorm.core.convertImpl
+com.sorm.core.queryImpl
+com.sorm.pool
+com.sorm.utils
